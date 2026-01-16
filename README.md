@@ -15,12 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Savage404E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  * [📖 GitHub GraphQL API](https://docs.github.com/en/graphql)
-  * [📖 GitHub GraphQL Explorer](https://docs.github.com/en/free-pro-team@latest/graphql/overview/explorer)
-  * [📖 GitHub Rest API](https://docs.github.com/en/rest)
-  * [📖 GitHub Octicons](https://github.com/primer/octicons)
-
-Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for feedback, new features suggestions, bugs reports or to request help for installation.
 
 
