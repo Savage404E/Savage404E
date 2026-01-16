@@ -1,58 +1,21 @@
-  * [🎟️ Follow-up of issues and pull requests <sub>`followup`</sub>](/source/plugins/followup/README.md)
-  * [🎫 Gists <sub>`gists`</sub>](/source/plugins/gists/README.md)
-  * [💡 Coding habits and activity <sub>`habits`</sub>](/source/plugins/habits/README.md)
-  * [🙋 Introduction <sub>`introduction`</sub>](/source/plugins/introduction/README.md)
-  * [📅 Isometric commit calendar <sub>`isocalendar`</sub>](/source/plugins/isocalendar/README.md)
-  * [🈷️ Languages activity <sub>`languages`</sub>](/source/plugins/languages/README.md)
-  * [📜 Repository licenses <sub>`licenses`</sub>](/source/plugins/licenses/README.md)
-  * [👨‍💻 Lines of code changed <sub>`lines`</sub>](/source/plugins/lines/README.md)
-  * [🎩 Notable contributions <sub>`notable`</sub>](/source/plugins/notable/README.md)
-  * [🧑‍🤝‍🧑 People <sub>`people`</sub>](/source/plugins/people/README.md)
-  * [🗂️ GitHub projects <sub>`projects`</sub>](/source/plugins/projects/README.md)
-  * [🎭 Comment reactions <sub>`reactions`</sub>](/source/plugins/reactions/README.md)
-  * [📓 Featured repositories <sub>`repositories`</sub>](/source/plugins/repositories/README.md)
-  * [🌇 GitHub Skyline <sub>`skyline`</sub>](/source/plugins/skyline/README.md)
-  * [💕 GitHub Sponsors <sub>`sponsors`</sub>](/source/plugins/sponsors/README.md)
-  * [💝 GitHub Sponsorships <sub>`sponsorships`</sub>](/source/plugins/sponsorships/README.md)
-  * [✨ Stargazers <sub>`stargazers`</sub>](/source/plugins/stargazers/README.md)
-  * [💫 Star lists <sub>`starlists`</sub>](/source/plugins/starlists/README.md)
-  * [🌟 Recently starred repositories <sub>`stars`</sub>](/source/plugins/stars/README.md)
-  * [💭 GitHub Community Support <sub>`support`</sub>](/source/plugins/support/README.md) <sub>`⚠️ deprecated`</sub>
-  * [📌 Starred topics <sub>`topics`</sub>](/source/plugins/topics/README.md)
-  * [🧮 Repositories traffic <sub>`traffic`</sub>](/source/plugins/traffic/README.md)
-* **Social plugins**
-  * [🌸 Anilist watch list and reading list <sub>`anilist`</sub>](/source/plugins/anilist/README.md)
-  * [🗳️ Leetcode <sub>`leetcode`</sub>](/source/plugins/leetcode/README.md)
-  * [🎼 Music activity and suggestions <sub>`music`</sub>](/source/plugins/music/README.md)
-  * [⏱️ Google PageSpeed <sub>`pagespeed`</sub>](/source/plugins/pagespeed/README.md)
-  * [✒️ Recent posts <sub>`posts`</sub>](/source/plugins/posts/README.md)
-  * [🗼 Rss feed <sub>`rss`</sub>](/source/plugins/rss/README.md)
-  * [🗨️ Stack Overflow <sub>`stackoverflow`</sub>](/source/plugins/stackoverflow/README.md)
-  * [🕹️ Steam <sub>`steam`</sub>](/source/plugins/steam/README.md)
-  * [🐤 Latest tweets <sub>`tweets`</sub>](/source/plugins/tweets/README.md) <sub>`⚠️ deprecated`</sub>
-  * [⏰ WakaTime <sub>`wakatime`</sub>](/source/plugins/wakatime/README.md)
 
-**🎲 Maintained by community**
-* **[Community plugins](/source/plugins/community/README.md)**
-  * [🧠 16personalities <sub>`16personalities`</sub>](/source/plugins/community/16personalities/README.md) by [@lowlighter](https://github.com/lowlighter)
-  * [♟️ Chess <sub>`chess`</sub>](/source/plugins/community/chess/README.md) by [@lowlighter](https://github.com/lowlighter)
-  * [🪙 Crypto <sub>`crypto`</sub>](/source/plugins/community/crypto/README.md) by [@dajneem23](https://github.com/dajneem23)
-  * [🥠 Fortune <sub>`fortune`</sub>](/source/plugins/community/fortune/README.md) by [@lowlighter](https://github.com/lowlighter)
-  * [💉 Nightscout <sub>`nightscout`</sub>](/source/plugins/community/nightscout/README.md) by [@legoandmars](https://github.com/legoandmars)
-  * [💩 PoopMap plugin <sub>`poopmap`</sub>](/source/plugins/community/poopmap/README.md) by [@matievisthekat](https://github.com/matievisthekat)
-  * [📸 Website screenshot <sub>`screenshot`</sub>](/source/plugins/community/screenshot/README.md) by [@lowlighter](https://github.com/lowlighter)
-  * [🦑 Splatoon <sub>`splatoon`</sub>](/source/plugins/community/splatoon/README.md) by [@lowlighter](https://github.com/lowlighter)
-  * [💹 Stock prices <sub>`stock`</sub>](/source/plugins/community/stock/README.md) by [@lowlighter](https://github.com/lowlighter)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/savage-1189460443736055828) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kadam-473096383) 
 
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Savage404E&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Savage404E&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savage404E&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💪 Contributing
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-If you are interested in contributing, the following resources may interest you:
+---
+[![](https://visitcount.itsvg.in/api?id=Savage404E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* [💪 Contribution guide](/CONTRIBUTING.md)
-* [🧬 Architecture](/ARCHITECTURE.md)
-* [📜 License](/LICENSE)
-* **:octocat: GitHub resources**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   * [📖 GitHub GraphQL API](https://docs.github.com/en/graphql)
   * [📖 GitHub GraphQL Explorer](https://docs.github.com/en/free-pro-team@latest/graphql/overview/explorer)
   * [📖 GitHub Rest API](https://docs.github.com/en/rest)
