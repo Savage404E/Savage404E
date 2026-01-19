@@ -7,7 +7,7 @@
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Savage404E">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" /> 
 </div>
@@ -15,7 +15,7 @@
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Savage404E">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,python,&perline=4" /> 
 </div>
@@ -24,7 +24,7 @@
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/Savage404E">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,linux,SQL,mongoDB,vscodeqt&perline=4" /> 
 </div>
