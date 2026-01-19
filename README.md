@@ -26,7 +26,7 @@
 ### Others
 <a href="https://github.com/Savage404E">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,linux,SQL,mongoDB,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,linux,SQLite,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
