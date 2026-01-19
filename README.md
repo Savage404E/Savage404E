@@ -17,7 +17,7 @@
 ### Languages
 <a href="https://github.com/Savage404E">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,cpp,python,&perline=4" /> 
 </div>
 </a>
 
