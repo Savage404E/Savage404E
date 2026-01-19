@@ -26,7 +26,7 @@
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,linux,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
