@@ -9,7 +9,7 @@
 ### Frontend  
 <a href="https://github.com/Savage404E">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,typescript&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
