@@ -6,7 +6,7 @@
 
 ---
 
-## ![icon-collection-colors](https://stats.pphat.top/icons?name=github&color=%230088CC,%233178C6,white) GitHub Stats:
+## ![icon-collection-basic](https://stats.pphat.top/icons?name=github&size=small) GitHub Stats:
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E&theme=highcontrast)
 
 ---
