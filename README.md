@@ -6,8 +6,12 @@
 
 ---
 
-# ![icon-collection-basic](https://stats.pphat.top/icons?name=github&size=small) GitHub Stats:
+# ✨ GitHub Stats:
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E&theme=highcontrast)
+
+---
+
+![graph-default](https://stats.pphat.top/graph?username=pphatdev)
 
 ---
 
