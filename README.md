@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Socials: [![Portfolio](https://savage404e.github.io/Sahil-Portfolio/)]
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/savage-1189460443736055828) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kadam-473096383) 
 
 ## Skill Set:
@@ -38,6 +38,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savage404E&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Savage404E&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 💻 Check Out My Projects in list | https://github.com/Savage404E/Projects
