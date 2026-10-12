@@ -4,35 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kadam-473096383)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_sahilkadam/)
 
-## Skill Set:
-
-<table><tr><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/Savage404E">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,typescript&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/Savage404E">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,cpp,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/Savage404E">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,discord,linux,sqlite,mongodb,vscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Savage404E&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
