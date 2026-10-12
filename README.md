@@ -10,7 +10,7 @@
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E&theme=highcontrast)
 
 ---
-
+## 🌟 Daily commitment
 ![graph-default](https://stats.pphat.top/graph?username=Savage404E)
 
 ---
