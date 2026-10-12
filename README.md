@@ -7,7 +7,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E&theme=highcontrast)
 
 ---
 
