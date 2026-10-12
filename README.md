@@ -37,11 +37,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Savage404E&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Savage404E&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Todays Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Savage404E&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Check Out My Repos in list | https://github.com/Savage404E/Projects-showcase
-
+### 💻 Check Out My Projects in list | https://github.com/Savage404E/Projects
