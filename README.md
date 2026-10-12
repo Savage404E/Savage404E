@@ -6,12 +6,12 @@
 
 ---
 
-# ✨ GitHub Stats:
+## ✨ GitHub Stats:
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Savage404E&theme=highcontrast)
 
 ---
 
-![graph-default](https://stats.pphat.top/graph?username=pphatdev)
+![graph-default](https://stats.pphat.top/graph?username=Savage404E)
 
 ---
 
